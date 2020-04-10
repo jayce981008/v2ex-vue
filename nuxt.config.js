@@ -24,9 +24,10 @@ module.exports = {
    ** Global CSS
    */
   css: [
-    '@/assets/css/basic.css',
-    '@/assets/css/combo.css',
-    '@/assets/css/desktop.css'
+    '@/static/css/basic.css',
+    '@/static/css/combo.css',
+    '@/static/css/desktop.css',
+    '@/static/css/tomorrow.css'
   ],
   /*
    ** Plugins to load before mounting the App
