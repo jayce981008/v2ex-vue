@@ -27,12 +27,13 @@ module.exports = {
     '@/static/css/basic.css',
     '@/static/css/combo.css',
     '@/static/css/desktop.css',
-    '@/static/css/tomorrow.css'
+    '@/static/css/tomorrow.css',
+    '@/static/css/codemirror.css'
   ],
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: ['~/plugins/elements.js'],
+  plugins: [],
   /*
    ** Nuxt.js dev-modules
    */
